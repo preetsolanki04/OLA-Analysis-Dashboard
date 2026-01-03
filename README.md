@@ -68,6 +68,11 @@ This dashboard solves these problems by converting raw ride data into **clear, a
 
 ---
 
+## 📂 Project Structure
+📁 OLA-Ride-Analytics
+├── OLA Project.pbix # Power BI dashboard file
+├── README.md # Project documentation
+
 
 ## 👤 Author
 **Preet Solanki**
